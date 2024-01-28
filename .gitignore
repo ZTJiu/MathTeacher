@@ -2,3 +2,8 @@ data
 voice
 .env
 __pycache__
+
+App.spec
+Speaker.spec
+build
+dist
